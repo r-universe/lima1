@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PureCN"]
-	path = PureCN
-	url = https://github.com/lima1/purecn
-	shallow = true
-	registered = true
